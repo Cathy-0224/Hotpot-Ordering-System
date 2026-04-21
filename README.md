@@ -1,4 +1,3 @@
-# Hotpot-Ordering-System
 # Online Hotpot Reservation & Ordering System (線上火鍋訂位與點餐系統)
 
 > **元智大學 資訊管理學系 大三課程專案 — 系統分析與設計**
@@ -8,6 +7,13 @@
 
 ---
 
+### 🎥 專案演示
+
+點擊下方圖片觀看系統操作流程 (Login -> Reservation -> Ordering)：
+
+[![Project Demo](https://img.youtube.com/vi/nmrHamwRPFI/0.jpg)](https://www.youtube.com/watch?v=nmrHamwRPFI)
+
+---
 ## 💡 核心功能 (Key Features)
 
 * **數位化訂位服務**：顧客可線上選擇用餐日期、人數與預約時段，提升預約便利性。
